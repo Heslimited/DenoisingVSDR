@@ -1,1 +1,2 @@
 # DenoisingVSDR
+Radar image resolution enhancement algorithm based on the VDSR (Very Deep Super-Resolution) neural network and compared it with bicubic interpolation. An algorithm for increasing the resolution of radar images with a noise reduction function has also been implemented.вфыфв
