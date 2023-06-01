@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignorgit check-ignore -v hello.pycing-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+#images
+/enhanced_images
+/NoisedTrainingSet2
+/TestSet2
+/TestSet3
+/Training_set
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*git ls-files
+yarn-debug.log*
+yarn-error.log*
